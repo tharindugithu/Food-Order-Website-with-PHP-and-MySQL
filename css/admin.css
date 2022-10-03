@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.text-center {
+    text-align: center;
+}
+
+.footer {
+    background-color: #2f3542;
+    color: aliceblue;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.menu {
+    border-bottom: 1px solid;
+
+}
+
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    display: inline;
+    padding: 1%;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #21af4e;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-right a {
+    text-align: right;
+}
+
+.menu ul li a:hover {
+    color: black;
+}
+
+.main-content {
+    margin: 0% 0%;
+    background-color: #d4dce6;
+    padding: 3% 0;
+    /*  top&bottom left&right */
+}
+
+.col-4 {
+    width: 18%;
+    background-color: #ffffff;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+
+}
+
+p a {
+    color: #076de9;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.clear-fix {
+    float: none;
+    clear: both;
+}
+
+.tbl-full {
+    width: 100%;
+}
+
+table tr th {
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+
+table tr td {
+    padding: 1%;
+}
+
+.btn-primary {
+    background-color: #40bf4f;
+    padding: 1%;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.btn-primary:hover {
+    background-color: #00ab36;
+}
+
+.btn-secondary {
+    background-color: #1e90ff;
+    padding: 1%;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.btn-secondary:hover {
+    background-color: #3742fa;
+}
+
+.btn-danger {
+    background-color: #ff6348;
+    padding: 1%;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.btn-danger:hover {
+    background-color: #ff4757;
+}
+
+.tbl-30 {
+    width: 30%;
+}
+
+.success {
+    color: #046823;
+    padding: 1%;
+    background-color: aquamarine;
+
+}
+
+.error {
+    color: #040404;
+    padding: 1%;
+    background-color: rgb(235, 78, 78);
+}
+
+.login {
+    width: 10%;
+    border: 1px solid rgb(246, 238, 1);
+    margin: 5% auto;
+    padding: 4%;
+    background-color: #ffa502;
+}
+
+.btn {
+    padding: 10%;
+    background-color: #ff4757;
+    border-radius: 8px;
+}
