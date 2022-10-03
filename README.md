@@ -9,7 +9,7 @@ This is a Restaurant Theme Website Template, designed using html and css.
 1. HTML5
 2. CSS3
 3. MYSQL
-
+4. PHP
 
 ## Pages on this Complete Free Template
 1. **index.html** - Home Page (Search Food, Some Categories, Featured Foods, Social Media link)
